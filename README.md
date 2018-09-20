@@ -22,8 +22,11 @@ https://trends.google.com.mx/trends/
 
 *Administracion de tareas
 https://slack.com/intl/es/
+
 https://trello.com/
+
 https://www.wunderlist.com/es/
+
 https://asana.com/es
 
 *Campañas de marketing.
